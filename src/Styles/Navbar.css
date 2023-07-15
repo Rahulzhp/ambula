@@ -1,0 +1,60 @@
+.navbar {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 7px 20px;
+    background: 0 0;
+    background-color: #5f4c4c;
+    position: sticky;
+    top: 0;
+    z-index: 5;
+    color: #f5f2f0;
+}
+
+.navbar.scrolled {
+    background: linear-gradient(180deg, rgba(175, 51, 14, 0.8), rgba(24, 28, 41, .92) 100%, rgba(24, 28, 41, .92) 0);
+    box-shadow: 0 12px 16px rgba(243, 107, 29, 0.2);
+    -webkit-backdrop-filter: blur(12px);
+    backdrop-filter: blur(12px);
+}
+
+.navbar>div {
+    margin-left: 2px;
+}
+
+.pages {
+    display: flex;
+    gap: 57px;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 2px;
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
+
+.pages a {
+    color: white;
+    text-decoration: none;
+}
+
+.pages a:hover {
+    font-size: 15px;
+    color: bisque;
+}
+
+.navuser {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navuser>img {
+    width: 37%;
+}
+
+.navuser>:first-child {
+    width: 35%;
+}

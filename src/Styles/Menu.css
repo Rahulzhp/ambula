@@ -1,0 +1,99 @@
+.menu {
+    background-repeat: no-repeat;
+    min-height: 550px;
+    background-position: 50%;
+    background-size: cover;
+    position: relative;
+    padding: 0;
+    background-color: #202327;
+}
+
+.menu>div {
+    padding-top: 55px;
+    text-align: center;
+}
+
+.menu>div>h1 {
+    font-size: 39px;
+    font-weight: 500;
+    color: #ff4d00;
+}
+
+.menu>div>p {
+    color: white;
+    margin-top: 15px;
+    font-size: 29px;
+    font-weight: 500;
+}
+
+.menuItem {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding-bottom: 25px;
+
+}
+
+.dish-card {
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.dishimg {
+    margin: auto;
+    height: 215px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.dish-card h3 {
+    margin-top: 0;
+    color: white;
+    font-size: 19px;
+}
+
+.dish-card p {
+    color: rgb(223, 221, 221);
+    padding: 4px 11px;
+}
+
+.menuItemdtitle {
+    height: 59px;
+    overflow: hidden;
+
+}
+
+.menuItemdPrice {
+    height: 31px;
+    overflow: hidden;
+
+    font-weight: 700;
+    font-size: 15px;
+    margin-bottom: 3px;
+}
+
+.menuItemdescription {
+    height: 69px;
+    overflow: hidden;
+
+    margin-bottom: 0px;
+    font-size: 14px;
+    font-weight: 300;
+}
+
+.dish-card span {
+    color: #ff4d00;
+}
+
+
+
+.dishimg>img {
+    width: 80%;
+    margin: auto;
+    max-height: 200px;
+    object-fit: cover;
+}
