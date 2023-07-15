@@ -1,7 +1,7 @@
 ### To-Do List: && Shopping Cart: ####
 
 
-![Ambula Project](https://github.com/Rahulzhp/onlinemang/assets/107567053/c8f02a99-8449-4b12-b2f4-d790016826fd)
+![Ambula Project](https://github.com/Rahulzhp/ambula/assets/107567053/9f170ffc-7deb-49d1-a9d7-e4fb3782d321)
 
 # Clone of Online Project management
 
@@ -25,18 +25,12 @@ To make this clone we have used HTMl, CSS and JavaScript, ReactJS for front-end.
 
 # Snapshots of Our Project 📸
 
-## Home page
--Desktop View
-<img width="710" alt="image" src="" />
-
-
 ## To-do page
 -Desktop View
-<img width="710" alt="image" src="" />
-
+<img width="710" alt="image" src="https://github.com/Rahulzhp/ambula/assets/107567053/56d2254f-d984-4850-8049-a15a68d98f46" />
 
 ## Cart page
 -Desktop View
-<img width="710" alt="image" src="" />
+<img width="710" alt="image" src="https://github.com/Rahulzhp/ambula/assets/107567053/184ea325-4dfa-4479-9851-7c1a663e6ba8" />
 
 
